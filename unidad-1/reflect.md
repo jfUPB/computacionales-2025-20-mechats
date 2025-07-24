@@ -13,7 +13,8 @@ El registro D es el valor temporal que tiene D, que fue modificado por medio de 
 Para hacer un salto condicional es necesario una direccion a la cual se va a salitar y una condición que puede ser si D es mayor a cero. menor a cero, etc, por ejemplo:
 
 ``` @END
-     D; <0 ```
+     D; <0
+ ```
 
 En D=M se le asigna a D la direccion de memoria actual y M=D significa que se guarda elo valor de D en la memoria que apunte A
 
