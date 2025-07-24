@@ -34,5 +34,15 @@ Mi momento "aja" fue cuando me di cuenta como funcionaban los saltos, no entendi
 Para la proxima unidad procurare tomar nota en mi bitacora lo mas pronto que pueda y no caer en " lo hago despues" y terminar sin hacerlo por culpa del tiempo
 
 
-### Actividad 06
+### Actividad 07
+
+. Considero que la dinamica de la clase es util, ayuda a un avance rapido pero eficaz y despues tener una retroalimentacion si es necesario
+
+. Creo que de la actividad 1 a la 2 hubo un salto de dificultad bastante amplio, me hubiera gustadoq ue hubiese sido un poco mas progresivo
+
+. Serviria mucho que se grabaran las clases, no porque no se le preste atención a las presenciales, sino porque en ocasiones se generan dudas que se pueden solucionar mediante la grabacion de clases
+
+. en la escala le daria un 3, considero  que en la mayoria del curso el avance ha sido progresivo salvo por lo anteriormente comentado, tampoco ha sido algo demasiado tedioso de entender
+
+
 
