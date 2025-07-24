@@ -33,3 +33,6 @@ Mi momento "aja" fue cuando me di cuenta como funcionaban los saltos, no entendi
 
 Para la proxima unidad procurare tomar nota en mi bitacora lo mas pronto que pueda y no caer en " lo hago despues" y terminar sin hacerlo por culpa del tiempo
 
+
+### Actividad 06
+
