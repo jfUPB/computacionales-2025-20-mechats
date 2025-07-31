@@ -14,6 +14,8 @@ El codigo es bastante sencillo, pienso que funciona guardando en el registro A e
 
 
 
+### Actividad 02
+
 
 
 Ahora, si queremos hacer una linea en vez de un punto hay que cambiar un poco el codigo, asignando M: -1, haciendo que los primeros 16 bits de la pantalla se apaguen
@@ -32,6 +34,17 @@ Tambien podemos interpretar la relacion entre el lenguaje ensamblador y lenguaje
 
 
 <img width="1573" height="354" alt="image" src="https://github.com/user-attachments/assets/625a0611-23e6-45ef-93a7-ee042f0009e8" />
+
+
+
+
+### Actividad 03
+
+
+
+
+### Actividad 04
+
 
 
 
