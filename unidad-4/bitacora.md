@@ -5,7 +5,7 @@
 Código para ofApp.h:
 
 ``` cpp
-ofApp.h
+
 #pragma once
 #include "ofMain.h"
 
@@ -99,7 +99,7 @@ public:
 Código para ofApp.cpp:
 
 ``` cpp
-ofApp.cpp
+
 #include "ofApp.h"
 
 void ofApp::setup() {
@@ -155,7 +155,7 @@ void ofApp::keyPressed(int key) {
 
 Código para main.cpp:
 ``` cpp
-main.cpp
+
 #include "ofApp.h"
 #include "ofMain.h"
 
@@ -169,6 +169,6 @@ int main() {
 
 ## Demostración:
 
-[Demostracion](https://youtu.be/U11eyEYWYoM)
 
+[Demostracion](https://youtu.be/U11eyEYWYoM)
 
