@@ -13,7 +13,7 @@
 
 ### Autoevaluacion
 
-#### Nota propuesta: 42.25.
+#### Nota propuesta: 42.25 --> 4.225 --> 4.3 (actualización del profe)
 
 Considero que la investigacion que hice aunque no fue exhausta abarca muy bien los 3 conceptos que abarcar en esta unidad. Ademas de esto mis preguntas no se quedaron en la definicion o explicacion de estos conceptos, trate de aplicarlos y que me surgieran preguntas a partir de esos conceptos. Como por ejemplo la pregunta de si era posible hackear el codigo mediante el encapsulamiento. Ademas considero que le dedique muy buen tiempo a cada ejercicio y logre entender mucho mejor como funciona el polimorfismo. Una de las principales dudas que tenia era entender como funcionaba el polimorfismo durante el tiempo de ejecución, y con las vtables ahora todo me quedo claro. 
 
