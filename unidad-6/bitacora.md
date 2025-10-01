@@ -1,7 +1,7 @@
 # Bitácora de aprendizaje de la unidad 6
 
 
-## Actividad 06
+## Actividad 02
 
 ### Explica con tus propias palabras el propósito del patrón Observer. ¿Qué problema resuelve?
 
