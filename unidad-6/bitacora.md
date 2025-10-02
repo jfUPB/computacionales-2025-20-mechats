@@ -537,6 +537,8 @@ nota propuesta: 4.5
  
 esta actividad fue la más completa porque integré los tres patrones en una nueva partícula, logré usar la fábrica para crearla, el observer para que recibiera eventos y el state para definir su comportamiento, sin embargo aquí tuve más dificultades, por ejemplo  me costó integrar el nuevo tipo en la factory sin romper lo que ya estaba, tuve que rehacer esa parte para que funcionara bien, a pesar de esos errores pude resolverlos y ahora entiendo mejor cómo combinar varios patrones en un mismo sistema
 
+## Nota final: 4.4
+
 
  
 
