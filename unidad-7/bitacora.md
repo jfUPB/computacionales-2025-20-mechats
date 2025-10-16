@@ -4,7 +4,8 @@
 
 ### imagen
 
-<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/3356e517-9be8-43e0-8b85-aa0b719becbe" 
+<img width="1620" height="790" alt="image" src="https://github.com/user-attachments/assets/e55f0e26-c32d-4e5d-bcb2-e0f3a8b6686c" />
+
 
 
 ### preguntas
@@ -54,39 +55,44 @@ Si uso GL_POINTS, no aparece nada visible.
 
 #### Cuarto experimento
 
-¿Qué es el contexto OpenGL?
+##### ¿Qué es el contexto OpenGL?
 Es el entorno donde se ejecutan las operaciones gráficas, necesario para que la computadora pueda dibujar.
 
-¿Cuál es el rol de la biblioteca GLFW y qué ventajas tiene?
-GLFW facilita la creación y gestión de ventanas donde se mostrarán los gráficos, evitando tener que programar eso manualmente.
+##### ¿Cuál es el rol de la biblioteca GLFW y qué ventajas tiene?
+GLFW facilita la creación y gestión de ventanas donde se mostrarán los gráficos, evitando tener que programar eso manualmente
 
-¿Por qué OpenGL necesita un contexto?
-Porque sin él, no tendría un espacio donde ejecutar las órdenes gráficas (sería como un artista sin su taller).
+##### ¿Por qué OpenGL necesita un contexto?
+Porque sin él, no tendría un espacio donde ejecutar las órdenes gráficas (sería como un artista sin su taller)
 
-¿Qué es el framebuffer y con qué se relaciona?
-Es una zona de memoria donde se guardan los píxeles de la imagen que se va a mostrar. Me recuerda cómo en ensamblador escribíamos directamente en memoria para pintar píxeles.
+##### ¿Qué es el framebuffer y con qué se relaciona?
+Es una zona de memoria donde se guardan los píxeles de la imagen que se va a mostrar. Me recuerda cómo en ensamblador escribíamos directamente en memoria para pintar píxeles
 
-¿Qué relación hay entre el viewport y el framebuffer?
-El viewport define la porción visible en pantalla, mientras que el framebuffer almacena los píxeles que corresponden a esa parte.
+##### ¿Qué relación hay entre el viewport y el framebuffer?
+El viewport define la porción visible en pantalla, mientras que el framebuffer almacena los píxeles que corresponden a esa parte
 
-¿Qué papel juegan los drivers y la GPU?
-Los drivers contienen funciones necesarias para interactuar con la GPU, que es la encargada de procesar y dibujar los gráficos.
+##### ¿Qué papel juegan los drivers y la GPU?
+Los drivers contienen funciones necesarias para interactuar con la GPU, que es la encargada de procesar y dibujar los gráficos
 
-¿Por qué es importante activar el VSync?
-Porque sincroniza los fotogramas con la tasa de refresco del monitor. Si no se activa, pueden aparecer parpadeos o desincronización visual.
+##### ¿Por qué es importante activar el VSync?
+Porque sincroniza los fotogramas con la tasa de refresco del monitor. Si no se activa, pueden aparecer parpadeos o desincronización visual
 
-¿Qué es OpenGL Legacy y en qué se diferencia del moderno?
-El OpenGL Legacy usa un pipeline fijo, mientras que el moderno permite un pipeline programable, más flexible y potente.
+##### ¿Qué es OpenGL Legacy y en qué se diferencia del moderno?
+El OpenGL Legacy usa un pipeline fijo, mientras que el moderno permite un pipeline programable, más flexible y potente
 
-¿Qué es el shader program y por qué es importante?
+##### ¿Qué es el shader program y por qué es importante?
 Es un conjunto de programas pequeños que transforman los vértices y determinan el color de los píxeles. Es esencial para el renderizado moderno.
 
-¿Qué hace la función setupTriangle()? ¿Qué son VAO y VBO?
-La función setupTriangle() probablemente define los vértices del triángulo, crea los buffers y asocia los datos.
+##### ¿Qué hace la función setupTriangle()? ¿Qué son VAO y VBO?
+La función setupTriangle() probablemente define los vértices del triángulo, crea los buffers y asocia los datos
 
-El VAO (Vertex Array Object) guarda la configuración de los atributos de los vértices.
+El VAO (Vertex Array Object) guarda la configuración de los atributos de los vértices
 
 El VBO (Vertex Buffer Object) almacena los datos de los vértices en la memoria de la GPU
+
+
+
+<img width="1414" height="2000" alt="Documento A4 mapa mental de ideas ilustrativo infográfico rosa" src="https://github.com/user-attachments/assets/f2e14271-2b7f-4230-aebb-34c3463b1dd2" />
+
 
 
 ### Actividad 04
@@ -331,6 +337,19 @@ Dentro del shader, se usa una función sin() para modificar el valor del color v
 
 
 <img width="1057" height="693" alt="image" src="https://github.com/user-attachments/assets/16b184a1-2ea2-4b1c-8bd4-3ef648758984" />
+
+
+### Autoevaluacion
+
+durante el desarrollo de la Unidad 6, considero que he alcanzado los objetivos planteados y merezco una calificación alta, ya que logré aplicar correctamente los conceptos teóricos sobre shaders, uniformes y animaciones basadas en tiempo, además de resolver los errores y depurar el código de manera autónoma, considero que logre muy bien la parte apply, pues desarrollé un programa en  con GLFW y GLAD que crea un triángulo animado cuyo color cambia automáticamente con el paso del tiempo, simulando un efecto pulsante o cíclico.
+Esto implicó modificar el fragment shader para incluir una variable uniforme (timeValue) que se actualiza cada frame usando glfwGetTime().
+
+Además, implementé correctamente el bucle principal de renderizado, actualizando uniformes y dibujando el triángulo con glDrawArrays.
+En esta parte se refleja la comprensión del flujo de renderizado de OpenGL y el manejo del tiempo real. Durante el proceso surgieron errores, como el del identificador glMakeContextCurrent, el cual detecté y solucioné revisando el flujo del programa y comprendiendo que la llamada era innecesaria.
+Opté por la versión más limpia del código (sin esa función al final), demostrando iniciativa para corregir problemas de compilación.
+
+Nota propuesta: 4.4
+
 
 
 
