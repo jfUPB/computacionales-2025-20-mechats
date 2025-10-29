@@ -181,6 +181,34 @@ uno de los principales desafíos fue ajustar el rango de mapeo del mouse para qu
 
 ## Autoevaluacion
 
+Nota propuesta: 5.0
+
+Considero que comprendi bastante claros los conceptos en la actividad #1, comprendo el porque al da click el circulo se quedaba quieto durante un rato, y lo explique con mis propias palabras con un ejemplo que vimos en clase, demostrando que si presto atención a los ejemplos y tengo una alta comprension de estos
+
+<img width="1232" height="701" alt="image" src="https://github.com/user-attachments/assets/15218348-fe00-45df-8218-de454be33d43" />
+
+
+
+Tambien segui el conducto regular a la hora de experimentar con el numero de hilos, planteando una hipotesis la cual a pesar al principio no estaba buena, supe como argumentar la razon por la que me equivoque
+
+
+<img width="1225" height="688" alt="image" src="https://github.com/user-attachments/assets/ee8e0da2-ed14-4f8c-be29-d4f3ad54ea5d" />
+
+
+
+con esta misma actividad  entendí cómo se puede medir el rendimiento y la eficiencia del código paralelo, aprendí a usar las funciones de tiempo para analizar cuánto se demora el cálculo completo y comprobé que usar varios hilos sí mejora el desempeño.
+
+Por ultimo, para la actividad final aprendí a mapear la posición del mouse a los valores de esa constante para crear una visualización interactiva, logré que el cálculo se actualizara automáticamente al mover el mouse, y eso hizo que el programa fuera más dinámico y visualmente interesante
+
+
+
+
+
+
+
+
+
+
 
 
 
